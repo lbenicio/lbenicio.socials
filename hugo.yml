@@ -30,56 +30,59 @@ menus:
           url: "https://blog.lbenicio.dev"
           weight: 40
           pre: fas fa-comment-alt
-params:
-    author: Leonardo Benicio
-    email: hello@lbenicio.dev
-    blogURL: https://blog.lbenicio.dev
-    social:
-        twitter:
-            username: lbenicio_
-            instance: twitter.com
-            icon: fab fa-twitter
-            visible: true
-        github:
-            username: lbenicio
-            instance: github.com
-            icon: fab fa-github
-            visible: true
-        linkedin:
-            username: in/leonardo-benicio-1a55a1ba
-            instance: linkedin.com
-            icon: fab fa-linkedin-in
-            visible: true
-        mastodon:
-            username: "@lbenicio"
-            instance: mastodon.social
-            visible: false
-            icon: fab fa-mastodon
-        reddit:
-            username: /u/lbenicio
-            instance: reddit.com
-            visible: false
-            icon: fab fa-reddit
-        instagram:
-            username: lbenicio_
-            instance: instagram.com
-            visible: false
-            icon: fab fa-instagram
-        youtube:
-            username: "@lbenicio"
-            instance: youtube.com
-            visible: false
-            icon: fab fa-youtube
-        bluesky:
-            username: profile/lbenicio.bsky.social
-            instance: bsky.app
-            visible: false
-            icon: fa-brands fa-bluesky
-        buyMeACoffee:
-            username: lbenicio
-            instance: buymeacoffee.com
-            visible: false
-            icon: fa fa-coffee
+          params:
+              analytics:
+                  google: G-LL33ZN1L70
+              author: Leonardo Benicio
+              email: hello@lbenicio.dev
+              blogURL: https://blog.lbenicio.dev
+              social:
+                  twitter:
+                      username: lbenicio_
+                      instance: twitter.com
+                      icon: fab fa-twitter
+                      visible: true
+                  github:
+                      username: lbenicio
+                      instance: github.com
+                      icon: fab fa-github
+                      visible: true
+                  linkedin:
+                      username: in/leonardo-benicio
+                      instance: linkedin.com
+                      icon: fab fa-linkedin-in
+                      visible: true
+                  mastodon:
+                      username: "@lbenicio"
+                      instance: mastodon.social
+                      visible: false
+                      icon: fab fa-mastodon
+                  reddit:
+                      username: u/lbenicio
+                      instance: reddit.com
+                      visible: false
+                      icon: fab fa-reddit
+                  instagram:
+                      username: lbenicio_
+                      instance: instagram.com
+                      visible: false
+                      icon: fab fa-instagram
+                  youtube:
+                      username: "@lbenicio"
+                      instance: youtube.com
+                      visible: false
+                      icon: fab fa-youtube
+                  bluesky:
+                      username: profile/lbenicio.bsky.social
+                      instance: bsky.app
+                      visible: false
+                      icon: fa-brands fa-bluesky
+                  buyMeACoffee:
+                      username: lbenicio
+                      instance: buymeacoffee.com
+                      visible: false
+                      icon: fa fa-coffee
+
 analytics:
     google: G-LL33ZN1L70
 module:
