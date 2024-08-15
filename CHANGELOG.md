@@ -2,14 +2,8 @@
 
 All notable changes to this project will be documented in this file.
 
-## v0.0.1
+## v1.0.0
 
 ### Changed
 
 - Initial Release
-
-## v0.0.2
-
-### Changed
-
-- update theme
